@@ -1,5 +1,5 @@
 # News Aggregator
-This is a news aggregator application built with Next.js that fetches data from NewsAPI. It provides a simple and user-friendly interface that allows users to browse through the latest news from various sources and categories.
+This is a news aggregator application built with Next.js that fetches data from NewsAPI. It provides a simple and user-friendly interface that allows users to browse through the latest news from various sources and categories..
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/98855058/229546762-9f750bbe-23f6-41c8-b008-dbb23dac3ec8.png" width="750" />
